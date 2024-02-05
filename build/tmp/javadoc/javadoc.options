@@ -1,0 +1,17 @@
+-classpath '/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/build/classes/java/main:/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/build/resources/main'
+-d '/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/build/docs/javadoc'
+-doctitle 'inlamning2maven 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'inlamning2maven 1.0-SNAPSHOT API'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/ui/Main.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/BookNotFoundException.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/Material.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/LoanNotFoundException.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/Customer.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/LoanAlreadyExistsException.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/Loan.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/BookCatalog.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/models/Book.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/utilities/LoanStatus.java'
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java/utilities/GenderType.java'
