@@ -23,6 +23,16 @@
 /nbdist/
 /.nb-gradle/
 
+### other ###
+/.gradle
+/.idea
+/src
+build.gradle
+gradlew
+gradlew.bat
+pom.xml
+
+
 
 ### VS Code ###
 .vscode/
