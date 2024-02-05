@@ -1,0 +1,12 @@
+mvn compile
+
+clean:clean
+
+javadoc:javadoc
+
+mvn surefire-report:report
+
+mvn test
+
+mvn package
+

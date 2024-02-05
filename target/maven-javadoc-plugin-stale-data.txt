@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'inlamning2maven 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'inlamning2maven 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/src/main/java = 1706812041465
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/tag-search-index.js = 1707165277731
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/overview-tree.html = 1707165277695
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/module-search-index.js = 1707165277730
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/index.html = 1707165277696
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/package-search-index.js = 1707165277730
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/jquery-ui.overrides.css = 1707165277743
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/serialized-form.html = 1707165277675
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/index-all.html = 1707165277738
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/allpackages-index.html = 1707165277730
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/member-search-index.js = 1707165277731
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/script.js = 1707165277741
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/stylesheet.css = 1707165277741
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/overview-summary.html = 1707165277739
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/help-doc.html = 1707165277740
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/element-list = 1707165277660
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/allclasses-index.html = 1707165277729
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/type-search-index.js = 1707165277731
+/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/site/apidocs/search.js = 1707165277742
