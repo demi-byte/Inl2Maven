@@ -10,9 +10,9 @@ class BookTest {
 	@Test
 	public void test2EqualBooks() {
 		Book book1 = new Book(1, "", "", "Equal Book", "", 0);
-		Book book2 = new Book(2, "", "", "Equal Book", "", 0);
+		Book book2 = new Book(1, "", "", "Equal Book", "", 0);
 
-		assertEquals(book1.getIsbn(), book2.getIsbn());
+		assertEquals(true, book1.equals(book2));
 	}
 
 	//G
@@ -20,7 +20,7 @@ class BookTest {
 	public void test2NonEqualBooks() {
 		Book book1 = new Book(1, "", "", "Not Equal Book", "", 0);
 		Book book2 = new Book(2, "", "", "No, Not Equal", "", 0);
-		assertNotEquals(book1.getIsbn(), book2.getIsbn());
+		assertNotEquals(true, book1.equals(book2));
 	}
 
 }
